@@ -18,7 +18,7 @@ Created: \`${message.guild.createdAt.toDateString()}\`
 `, true)
 
     embed.addField(`📁 Other`, `
-Avatar: [Click-Here](https://cdn.discordapp.com/avatars/${message.author.id}/${user.avatar}.webp?size=128)
+Avatar: [Click-Here](${user.displayAvatarURL({ dynamic: true, size: 2048 })})
 Last Message: [Click-Here](https://discordapp.com/channels/${message.guild.id}/${member.user.lastMessageChannelID}/${member.user.lastMessageID})
 Speaking: ${member.speaking ? "\`True\` - Channel: " + message.guilds.channels.get(member.voiceChannelID) : '\`False\`'}
 `, true)

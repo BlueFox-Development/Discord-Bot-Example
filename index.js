@@ -3,10 +3,10 @@ const Discord = require('discord.js');
 const fs = require("fs");
 
 // Loads config.js
-const config = require('./config.js');
+const config = require(`${process.cwd()}/config.js`);
 
 // Creates shard manager
-const manager = new Discord.ShardingManager('./bot.js', {
+const manager = new Discord.ShardingManager(`${process.cwd()}/bot.js`, {
     totalShards: "auto",
     respawn: true,
     token: config.token

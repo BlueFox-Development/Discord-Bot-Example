@@ -10,13 +10,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "better-sqlite3": "^7.1.0",
+    "@discordjs/opus": "^0.3.2",
+    "better-sqlite3": "^7.1.1",
+    "canvacord": "^5.0.5",
+    "discord-player": "2.3.1",
     "discord.js": "^12.3.1",
-    "enmap": "^5.7.1",
+    "enmap": "^5.8.0",
     "moment": "^2.27.0",
     "moment-duration-format": "^2.3.2",
-    "pastebin-js": "^1.0.5",
-    "solenolyrics": "^5.0.0",
-    "discord-player": "2.3.1"
+    "node-fetch": "^2.6.1",
+    "pastebin-js": "^1.0.5"
   }
 }
