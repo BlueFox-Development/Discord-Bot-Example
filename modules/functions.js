@@ -15,7 +15,7 @@ module.exports = (client) => {
     client.log = (title, msg) => {
         let time = moment().format(client.config.timeFormat);
         if (!title) title = 'Log';
-        console.log(`${time} [${title}] ${masg}`);
+        console.log(`${time} [${title}] ${msg}`);
     }
 
     client.check = (id) => {
