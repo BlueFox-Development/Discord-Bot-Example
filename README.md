@@ -5,7 +5,7 @@
 
 [![Activity](https://img.shields.io/github/commit-activity/m/BlueFox-Development/Discord-Bot-Example)](https://github.com/BlueFox-Development/Discord-Bot-Example/pulse)
 
-[![Chat on Discord](https://img.shields.io/discord/704423873415741510?logo=discord&style=flat-square)](https://discord.gg/PD8CMMUP7r)
+[![Chat on Discord](https://img.shields.io/discord/704423873415741510?logo=discord&style=flat-square)](https://discord.gg/9QtaQ2bPV5)
 
 ## Getting Started:
 
@@ -51,8 +51,8 @@ That will make the bot up and running!
 
 ## Deployment On BlueFox:
 
-To deploy your copy of this bot on bluefox, it's quit simple! Just visit [the BlueFox Host website](https://bluefoxhost.com/index.php), and click on login, then, click on hosting, discord bot hosting, you'll see a new page pop up, click on any plan, then click on continue, (if your trying to host a java/python bot, click on bot type and choose what language your bot is written in.). After that, you can upload your bot files to the host, either by uploading them directly or by using a FTP client like WinSCP, and then click on start!
-For more help, join the [support server](https://discord.gg/AWZYysZ).
+To deploy your copy of this bot on bluefox, it's quit simple! Just visit [the BlueFox Host website](https://bluefoxhost.com/), and click on login, then, click on hosting, discord bot hosting, you'll see a new page pop up, click on any plan, then click on continue, (if your trying to host a JavaScript/Python bot, click on bot type and choose what language your bot is written in.). After that, you can upload your bot files to the host, either by uploading them directly or by using a FTP client like WinSCP, and then click on start!
+For more help, join the [support server](https://discord.gg/9QtaQ2bPV5).
 
 ## Built With:
 
@@ -61,7 +61,7 @@ For more help, join the [support server](https://discord.gg/AWZYysZ).
 
 ## Contributing:
 
-Any pull request's are welcome!
+Any pull requests are welcome!
 
 ## Authors:
 
@@ -70,6 +70,7 @@ Any pull request's are welcome!
 * **[Snowflake107](https://github.com/Snowflake107)** - *Music Commands, Image Commands & More*
 * **[DeathHound6](https://github.com/DeathHound6)** - *Utility Commands & More*
 * **[CreatingEzzz](https://github.com/CatingEzz)** - *Utility Command & More*
+* **[Coob](https://github.com/Coob2003)** - *3rd party checking/correction*
 
 ## Acknowledgments:
 
